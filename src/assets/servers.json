@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Discord",
+    "participantsIds": [1, 2, 3, 4]
+  },
+  {
+    "id": 2,
+    "name": "Elephants",
+    "participantsIds": [1, 2, 3, 4]
+  },
+  {
+    "id": 3,
+    "name": "Kingdom",
+    "participantsIds": [1, 4]
+  }
+]

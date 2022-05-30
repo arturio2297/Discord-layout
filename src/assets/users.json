@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Вы",
+    "number": "#2222",
+    "avatarUrl": "",
+    "online": true,
+    "friend": false,
+    "play": "Discord",
+    "ROLE": ""
+  },
+  {
+    "id": 2,
+    "name": "FalloutAndrey",
+    "number": "#521",
+    "avatarUrl": "https://cdn.mos.cms.futurecdn.net/8gaY32d8GN7mrCiRf2wfck-650-80.jpg",
+    "online": true,
+    "friend": true,
+    "play": "Fallout 3",
+    "ROLE": ""
+  },
+  {
+    "id": 3,
+    "name": "offroze",
+    "number": "#1001",
+    "avatarUrl": "https://cdn.igromania.ru/mnt/news/5/8/7/7/5/8/68776/eaef98330e4365b3_1200xH.jpg",
+    "online": false,
+    "fiend": true,
+    "play": "STALKER",
+    "ROLE": "CREATOR"
+  },
+  {
+    "id": 4,
+    "name": "sweTTy",
+    "number": "#5055",
+    "avatarUrl": "",
+    "online": true,
+    "friend": true,
+    "play": "CS:GO",
+    "ROLE": ""
+  }
+]

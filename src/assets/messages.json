@@ -1,0 +1,59 @@
+[
+  {
+    "channelId": 1,
+    "userId": 2,
+    "date": "2022-03-11 10:11:05",
+    "body": "Всем привет! Мне помощь нужна... Может кто помочь?)",
+    "bodyType": "text"
+  },
+  {
+    "channelId": 1,
+    "userId": 2,
+    "date": "2022-03-11 10:13:25",
+    "body": "Есть кто живой?!!!",
+    "bodyType": "text"
+  },
+  {
+    "channelId": 1,
+    "userId": 3,
+    "date": "2022-03-12 00:12:01",
+    "body": "Привет!",
+    "bodyType": "text"
+  },
+  {
+    "channelId": 1,
+    "userId": 2,
+    "date": "2022-03-12 00:33:32",
+    "body": "Что-то долго отвечаете( Я уже все сам сделал)",
+    "boyType": "text"
+  },
+  {
+    "channelId": 1,
+    "userId": 3,
+    "date": "2022-03-12 00:33:12",
+    "body": "Ну сорян, я очень занят был)",
+    "bodyType": "text"
+  },
+  {
+    "channelId": 3,
+    "userId": 4,
+    "date": "2022-03-16 18:35:35",
+    "body": "Всем привет!",
+    "bodyType": "text"
+  },
+  {
+    "userId": 2,
+    "channelId": 11,
+    "date": "2022-04-11 15:35:00",
+    "body": "Привет. Как дела? Давно не виделись)",
+    "bodyType": "text"
+  },
+  {
+    "userId": 4,
+    "channelId": 12,
+    "date": "2022-04-12 12:00:15",
+    "body": "Привет. Как житуха?",
+    "bodyType": "text",
+    "type": "private"
+  }
+]

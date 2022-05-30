@@ -1,0 +1,96 @@
+[
+  {
+    "serverId": 2,
+    "name": "chat",
+    "type": "TEXT",
+    "id": 1,
+    "participantsIds": [1, 2, 3]
+  },
+  {
+    "serverId": 2,
+    "name": "meme",
+    "type": "TEXT",
+    "id": 2,
+    "participantsIds": [1, 2, 3]
+  },
+  {
+    "serverId": 2,
+    "name": "room-1",
+    "type": "VOICE",
+    "id": 3,
+    "participantsIds": [1, 4]
+  },
+  {
+    "serverId": 2,
+    "name": "room-2",
+    "type": "VOICE",
+    "id": 4,
+    "participantsIds": [1]
+  },
+  {
+    "serverId": 3,
+    "name": "chat",
+    "type": "TEXT",
+    "id": 5,
+    "participantsIds": [1]
+  },
+  {
+    "serverId": 3,
+    "name": "photos",
+    "type": "TEXT",
+    "id": 6,
+    "participantsIds": [1, 4]
+  },
+  {
+    "serverId": 3,
+    "name": "music-1",
+    "type": "MUSIC",
+    "id": 7,
+    "participantsIds": [1]
+  },
+  {
+    "serverId": 3,
+    "name": "music-2",
+    "type": "MUSIC",
+    "id": 8,
+    "participantsIds": [1]
+  },
+  {
+    "serverId": 3,
+    "name": "TAVERN-1",
+    "type": "VOICE",
+    "id": 9,
+    "participantsIds": [1]
+  },
+  {
+    "serverId": 3,
+    "name": "TAVERN-2",
+    "type": "VOICE",
+    "id": 10,
+    "participantsIds": [1]
+  },
+  {
+    "serverId": 1,
+    "name": "me - FalloutAndrey",
+    "type": "TEXT",
+    "id": 11,
+    "participantsIds": [2],
+    "isPrivate": true
+  },
+  {
+    "serverId": 1,
+    "name": "me - sweTTy",
+    "type": "TEXT",
+    "id": 12,
+    "participantsIds": [4],
+    "isPrivate": true
+  },
+  {
+    "serverId": 1,
+    "name": "me - offroze",
+    "type": "TEXT",
+    "id": 13,
+    "participantsIds": [3],
+    "isPrivate": true
+  }
+]

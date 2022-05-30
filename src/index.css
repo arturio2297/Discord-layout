@@ -1,3 +1,28 @@
+:root {
+  --icon-color: #c7c7c7;
+  --icon-color-h: #eaeaea;
+  --shadow-s: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+  --shadow-m: 4px 4p 4px 4px rgba(0, 0, 0, 0.2);
+  --bg-c-gray-dark: #282828;
+  --bg-c-gray: #444444;
+  --bg-c-gray-light: #545454;
+  --user-list-c: #404049;
+  --dialog-c: #494952;
+  --ds-blue: #3535ff;
+  --ds-red: #ff3737;
+  --ds-red-l: #ee4545;
+  --ds-green: #00ce2f;
+  --ds-green-dark: #278c37;
+  --tr-c-0_1s: color .1s ease-in-out;
+  --tr-bg-c-0_1s: background-color .1s ease-in-out;
+  --tr-c-0_2s: color .2s ease-in-out;
+  --tr-bg-c-0_2s: background-color .2s ease-in-out;
+  --tr-op-0_1s: opacity .1s ease-in-out;
+  --tr-op-0_2s: opacity .2s ease-in-out;
+  --tr-tr_0_1s: transform .1s ease-in-out;
+  --tr_tr_0_2s: transform .2s ease-in-out;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -7,7 +32,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@keyframes appearance {
+  0% {
+    opacity: 0;
+  }
+  90% {
+    transform: scale(1.05);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes scale {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
 }
